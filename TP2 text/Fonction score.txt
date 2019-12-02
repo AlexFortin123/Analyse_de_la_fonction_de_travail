@@ -1,0 +1,4 @@
+FUNCTION VOID Score(&i_PlayerScore, i_ScoreToAdd)
+	BEGIN
+		i_PlayerScore += i_ScoreToAdd
+	END

@@ -1,0 +1,15 @@
+FUNCTION VOID MouvemetCamera
+	DECLARE
+		BOOL : m_Scrolling
+		FLOAT : m_CameraScrollingSpeed
+		FLOAT VECTOR3 : m_NewCameraPosition, m_PlayerPosition
+	BEGIN
+		IF m_Scrolling THEN
+			m_NewCameraPosition = transform.position
+			m_NewCameraPosition += Vector3.left * m_CameraScrollingSpeed
+			transform.position = m_NewCameraPosition
+		ELSE THEN
+			transform.postion.x = m_PlayerPosition.x
+			transform.postion.y = m_PlayerPosition.y + 20
+			transform.postion.z = m_PlayerPosition.z - 20
+	END

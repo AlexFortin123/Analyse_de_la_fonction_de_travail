@@ -1,0 +1,33 @@
+FUNCTION VOID MouvementPlayer
+	DECLARE
+		FLOAT: m_SpeedMouvementPlayer, m_JumpForcePlayer
+	BEGIN
+        	IF Joueur Appuie sur W THEN
+        	{
+            		AnimationDeplacementJoueur()
+			Deplacement du joueur vers l'avant * m_SpeedMouvementPlayer
+        	}
+        	ELSE IF Joueur Appuie sur W THEN
+        	{
+            		AnimationDeplacementJoueur()
+			Deplacement du joueur vers l'arrière * m_SpeedMouvementPlayer
+        	}
+		
+		IF Joueur Appuie sur D THEN
+        	{
+            		AnimationDeplacementJoueur()
+			Deplacement du joueur vers la droite * m_SpeedMouvementPlayer
+        	}
+        	THEN IF Joueur Appuie sur A
+        	{
+            		AnimationDeplacementJoueur()
+			Deplacement du joueur vers la gauche * m_SpeedMouvementPlayer
+        	}
+
+        	If Joueur Appuie sur SPACE THEN
+        	{
+            		AnimationSautJoueur()
+			Deplacement du joueur vers le haut * m_JumpForcePlayer
+        	}
+    }
+	END

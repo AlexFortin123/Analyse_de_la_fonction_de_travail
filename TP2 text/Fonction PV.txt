@@ -1,0 +1,12 @@
+FUNTION PV
+	CONST
+		INTEGER m_MaxHpPlayer
+	DECLARE
+		INTEGER: m_HpPlayer, m_Damage
+		BOOL: m_TakingDamage, m_EatingFly
+	BEGIN
+		if(m_TakingDammage)THEN
+			m_HpPlayer -= m_Damage
+		if(m_EatingFly)
+			m_HpPlayer = m_MaxHpPlayer
+	END

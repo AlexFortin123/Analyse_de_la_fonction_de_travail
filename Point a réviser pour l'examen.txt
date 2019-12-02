@@ -1,0 +1,23 @@
+-Analyse, pas d'opignon, pas personnel, parle de fait, pas d'émotion, information technique, 
+faire des comparaison du même jeu du même temps et du même style.(Artistique, gameplay, il faut spécifier)
+
+-Retour d'import, subvention FMC, Catapulte(concours, gagne de l'argent, de l'aide, visibilité), Le camp, Flambeau(rencontre entre les gens de l'industrie), 
+Pixel, challenge(game jams, sert a s'entrainer, hitch.io ?), Semaine numérique, servercing ou  IP(propriété intellectuel), 
+white label(personne ne sait que tu travail sur le porjet et personne en le sait), NDA (Non disclosure Agreement), AEC -> Indi ou ceux qui font du
+Servecing et mobile
+
+-Programmeur -> senior ou lead, quart de métier(Programmeur, artiste, designer, QÉ)
+
+-Conférence : rester soit même quand on fait son entrevue, toujours montrer que t'es prêt a apprendre
+
+-Étape de production d'un jeux-vidéo
+
+-Outils documentation : Trello, sa sert a quoi? Organise tes tâches et faire un suivis des tâches
+
+-Film de jeux vidéo indépendant : Il y aura toujours un produit finale et une suite au jeux-vidéo, c'est une montagne russe(haut et bas)
+Witcher 3 doc: Le soucis du détails fait en sorte que ton jeux va bien veillir
+
+-Conf Designer technique: travaille chez Frima, Les compétences transversales vont nous amener loin. Certaine compétences qui n'ont pas de liens avec la job
+peuvent aider à la job.
+
+-Algortihme dans la vie : Sorting algorithme, suite d'étape logique qui resout un problème

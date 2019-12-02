@@ -1,0 +1,14 @@
+FUNCTION VOID DEPLACEMENTSERPENT
+	DECLARE
+		INTEGER : m_NombreDeSerpentToSpawn
+		BOOL : m_SerpentAtteintFin
+	BEGIN
+		m_NombreDeSerpentToSpawn = 12
+		New Serpent()
+		DO
+			IF m_SerpentAtteintFin THEN
+				Destroy Serpent
+				New Serpent()
+				i--
+		WHILE (m_NombreDeSerpentToSpawn != 0)
+	END
