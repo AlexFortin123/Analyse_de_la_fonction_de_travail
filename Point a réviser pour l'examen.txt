@@ -1,7 +1,8 @@
--Analyse, pas d'opignon, pas personnel, parle de fait, pas d'émotion, information technique, 
+﻿-Analyse, pas d'opignon, pas personnel, parle de fait, pas d'émotion, information technique, 
 faire des comparaison du même jeu du même temps et du même style.(Artistique, gameplay, il faut spécifier)
 
--Retour d'import, subvention FMC, Catapulte(concours, gagne de l'argent, de l'aide, visibilité), Le camp, Flambeau(rencontre entre les gens de l'industrie), 
+-Retour d'import, subvention FMC (innovation, transparence, responsabilité), Catapulte(concours, gagne de l'argent, de l'aide, visibilité), 
+Le camp, Flambeau(rencontre entre les gens de l'industrie), 
 Pixel, challenge(game jams, sert a s'entrainer, hitch.io ?), Semaine numérique, servercing ou  IP(propriété intellectuel), 
 white label(personne ne sait que tu travail sur le porjet et personne en le sait), NDA (Non disclosure Agreement), AEC -> Indi ou ceux qui font du
 Servecing et mobile
@@ -10,7 +11,7 @@ Servecing et mobile
 
 -Conférence : rester soit même quand on fait son entrevue, toujours montrer que t'es prêt a apprendre
 
--Étape de production d'un jeux-vidéo
+-Étape de production d'un jeux-vidéo, 1:Prototype, 2:Alpha, 3:Béta, 4:Release Candidate 5:Gold
 
 -Outils documentation : Trello, sa sert a quoi? Organise tes tâches et faire un suivis des tâches
 
